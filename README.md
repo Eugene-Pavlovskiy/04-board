@@ -1,3 +1,3 @@
 # marathon-js-frontend-vladilenminin
 
-- Создан репозиторий `01-board`.
+- Создан репозиторий `04-board`.
